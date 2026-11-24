@@ -1,4 +1,3 @@
-PLEASE do not join cortex's server and complain/ask for support about this backport, no support will be given there, join https://discord.gg/6rH7nzmfg8 instead
+# voxy-1.21.1-fabric-build-archive
 
-
-Voxy is an LoD rendering mod for minecraft
+This stores an archived build of <https://github.com/m3t4f1v3/voxy>. The source has not been modified.
